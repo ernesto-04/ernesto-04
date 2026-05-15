@@ -4,6 +4,7 @@
 
 Currently developing **FixItNow**, a service marketplace platform that connects customers with technicians for on-demand issue resolution.
 
+🌐 Live Demo: [fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net](https://fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net/)
 ---
 
 # 🚀 About Me
@@ -15,6 +16,7 @@ Currently developing **FixItNow**, a service marketplace platform that connects 
   * PostgreSQL
   * Clean Architecture
   * Real-time communication with SignalR
+  * Cloud deployment with Microsoft Azure
 
 * 🛠 Interested in:
 
@@ -23,10 +25,11 @@ Currently developing **FixItNow**, a service marketplace platform that connects 
   * Full Stack Web Development
   * Scalable Application Architecture
 
-* Tools & Others
+* Tools & Clouds
 
   * Git & GitHub
   * Visual Studio 2022
+  * Microsoft Azure
 
 ---
 
