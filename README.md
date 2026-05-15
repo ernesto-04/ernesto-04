@@ -18,6 +18,7 @@ Password: Demo123!
 ```text
 Email: technician@fixitnow.demo
 Password: Demo123!
+```
 ---
 
 # 🚀 About Me
