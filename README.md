@@ -5,6 +5,19 @@
 Currently developing **FixItNow**, a service marketplace platform that connects customers with technicians for on-demand issue resolution.
 
 🌐 Live Demo: [fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net](https://fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net/)
+
+## 🧪 Demo Accounts
+
+### Customer Account
+```text
+Email: customer@fixitnow.demo
+Password: Demo123!
+```
+
+### Technician Account
+```text
+Email: technician@fixitnow.demo
+Password: Demo123!
 ---
 
 # 🚀 About Me
