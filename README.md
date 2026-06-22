@@ -1,53 +1,37 @@
 # Hi there 👋 I'm Ernesto
 
-💻 Junior .NET Developer passionate about building scalable web applications and learning modern software architecture.
+💻 Junior .NET Developer passionate about building scalable web applications and clean software architecture.
 
-Currently developing **FixItNow**, a service marketplace platform that connects customers with technicians for on-demand issue resolution.
+I recently shipped **FixItNow** — a full-stack service marketplace that connects customers with local technicians for on-demand home services. Built with .NET 8, Blazor Server, SignalR, PostgreSQL, and deployed on Microsoft Azure.
 
-🌐 Live Demo: [fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net](https://fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net/)
+🌐 **Live Demo:** [fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net](https://fixitnow-api-ernesto-g7ffa2bcdaejeyd0.southeastasia-01.azurewebsites.net/)
 
-## 🧪 Demo Accounts
-
-### Customer Account
-```text
-Email: customer@fixitnow.demo
-Password: Demo123!
-```
-
-### Technician Account
-```text
-Email: technician@fixitnow.demo
-Password: Demo123!
-```
----
-
-# 🚀 About Me
-
-* 🌱 Currently learning:
-
-  * ASP.NET Core Web API (.NET 8)
-  * Blazor Web Assembly
-  * PostgreSQL
-  * Clean Architecture
-  * Real-time communication with SignalR
-  * Cloud deployment with Microsoft Azure
-
-* 🛠 Interested in:
-
-  * Backend Development
-  * System Design
-  * Full Stack Web Development
-  * Scalable Application Architecture
-
-* Tools & Clouds
-
-  * Git & GitHub
-  * Visual Studio 2022
-  * Microsoft Azure
+| Role | Email | Password |
+|------|-------|----------|
+| Customer | customer@fixitnow.demo | Demo123! |
+| Technician | technician@fixitnow.demo | Demo123! |
 
 ---
 
-* 📚 Always trying to improve my coding practices, project structure, and problem-solving skills.
+## 🚀 About Me
+
+- 🔨 Currently building full-stack web apps with **.NET 8**, **Blazor Server**, and **PostgreSQL**
+- 🌱 Deepening my understanding of **Clean Architecture**, **SignalR**, and **Azure** cloud deployment
+- 🎯 Interested in backend development, system design, and scalable application architecture
+- 📚 Always looking to improve my code quality, project structure, and problem-solving approach
 
 ---
 
+## 🛠 Tech & Tools
+
+**Backend**
+ASP.NET Core · Entity Framework Core · SignalR · JWT Auth · REST APIs
+
+**Frontend**
+Blazor Server · MudBlazor · HTML/CSS
+
+**Database**
+PostgreSQL · Azure PostgreSQL Flexible Server
+
+**Cloud & DevOps**
+Microsoft Azure App Service · Azure Blob Storage · Git & GitHub · Visual Studio 2022
