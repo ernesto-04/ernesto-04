@@ -10,6 +10,7 @@ I recently shipped **FixItNow** — a full-stack service marketplace that connec
 |------|-------|----------|
 | Customer | customer@fixitnow.demo | Demo123! |
 | Technician | technician@fixitnow.demo | Demo123! |
+| Admin | admin@fixitnow.demo | Demo123! |
 
 ---
 
